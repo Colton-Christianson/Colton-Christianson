@@ -1,4 +1,4 @@
-### Hi! I'm Colton. I am an IT and CyberSecurity profesional.
+### Hi! I'm Colton. I am an IT and CyberSecurity profesional. :computer: 
 
 <!--
 **Colton-Christianson/Colton-Christianson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
