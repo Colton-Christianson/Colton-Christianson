@@ -5,3 +5,4 @@
 - <b> Microsoft Azure </b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Colton-Christianson/Active-Directory-Lab)
   - [Configuring DNS and Preforming Basic Troubleshooting Exercises](https://github.com/Colton-Christianson/DNS-Lab/blob/main/README.md)
+  - [Network File Shares and Permissions Lab](https://github.com/Colton-Christianson/Network-File-Shares-and-Permissions-lab/blob/main/README.md)
