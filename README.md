@@ -10,3 +10,6 @@
 - <b> Other Technologies </b>
   - [VPN Test Lab](https://github.com/Colton-Christianson/VPN-Test-Lab/blob/main/README.md)
   - [Security Information and Event Management (SIEM) Project Summary](https://github.com/Colton-Christianson/Microsoft-Sentinel-Lab/blob/main/README.md)
+---
+- <b> Recreational Technical Projects </b>
+  - [Project: Converting a Minecraft Java World to a Bedrock Server](https://github.com/Colton-Christianson/Project-Converting-a-Minecraft-Java-World-to-a-Bedrock-Server/blob/main/README.md)
